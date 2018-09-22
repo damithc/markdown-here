@@ -1,0 +1,14 @@
+{
+  "ignoreGlobList": ["about-us/**", "**index.html"],    
+  "formats": ["html", "css"],
+  "ignoreCommitList": ["12345abc", "67890def"],
+  "authors":
+  [
+    {
+      "githubId": "adam-p",
+      "displayName": "Adam P.",
+      "authorNames": ["Adam Pritchard <pritchard.adam@gmail.com>"],
+      "ignoreGlobList": ["**.css"]
+    }
+  ]
+}
