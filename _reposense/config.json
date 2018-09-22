@@ -1,6 +1,6 @@
 {
   "ignoreGlobList": ["about-us/**", "**index.html"],    
-  "ignoreCommitList": ["12345abc", "67890def"],
+  "ignoreCommitList": ["1d0d3878ed1b63ceb0d33856c626194758501e6f", "e4075637edd44491df2ed75e07c0cb35b6312805", "496c0224b473107502e8c6fdb91e9b0ba0b1b928"],
   "authors":
   [
     {
