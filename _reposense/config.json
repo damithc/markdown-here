@@ -7,7 +7,7 @@
     {
       "githubId": "adam-p",
       "displayName": "Adam P.",
-      "authorNames": ["Adam Pritchard <pritchard.adam@gmail.com>"],
+      "authorNames": ["Adam Pritchard"],
       "ignoreGlobList": ["**.css"]
     }
   ]
