@@ -1,6 +1,5 @@
 {
   "ignoreGlobList": ["about-us/**", "**index.html"],    
-  "formats": ["html", "css"],
   "ignoreCommitList": ["12345abc", "67890def"],
   "authors":
   [
@@ -9,6 +8,11 @@
       "displayName": "Adam P.",
       "authorNames": ["Adam Pritchard"],
       "ignoreGlobList": ["**.css"]
+    },
+    {
+      "githubId": "dugite-code",
+      "displayName": "Dugite-code",
+      "authorNames": ["dugite-code"]
     }
   ]
 }
